@@ -1,0 +1,30 @@
+body{
+    margin:20px;
+	background-size: cover;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+    font-family:arial;
+}
+.container{
+	position:relative;
+	margin-top: 50px;
+	width: 580px;
+	height: auto;;
+	background: #DFAA0E;
+	border-radius: 3px;
+}
+*{
+    font-family:arial;
+ }
+ input{
+    border:solid 1px #2222AA;
+    margin-bottom:10px;
+    padding:16px;
+    outline:none;
+    border-radius:6px;
+ }
+ .erreur{
+    color:#CC0000;
+    margin-bottom:10px;
+ }
